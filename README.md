@@ -49,7 +49,7 @@ To achieve the swapping of positions, the lists is constructed using concatenati
 
 Thank you for reading!
 
-To see the main Python program for Programming Assignment 1, click this link: _________________________________________ and download it, open it in Jupyter Notebook, then run all cells.
+To see the main Python program for Programming Assignment 1, click this link: [https://github.com/MarcusCalpe/Python-Assignment-1/blob/main/Python%20Assignment.ipynb](https://github.com/MarcusCalpe/Python-Assignment-1/blob/main/Python%20Assignment.ipynb) and download it, open it in Jupyter Notebook, then run all cells.
 
 #### README file Version History:
 August 20, 2026 - Initial README output created
